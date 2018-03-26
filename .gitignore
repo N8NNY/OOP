@@ -1,2 +1,6 @@
 /Lab7/nbproject/private/
 /Lab7/build/
+update.sh
+.DS_Store
+.idea
+.gitignore
